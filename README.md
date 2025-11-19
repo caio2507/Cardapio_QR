@@ -1,7 +1,7 @@
 alunos:
-Caio César Hanel Ramos
-josé adrian cosmo de sousa
-Julio césar Verissimo 
+- Caio César Hanel Ramos
+- josé adrian cosmo de sousa
+- Julio césar Verissimo 
 
 
 Descrisão:
